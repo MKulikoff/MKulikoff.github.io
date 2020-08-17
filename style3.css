@@ -39,7 +39,7 @@ h1 {
   }
 
   .btn:active { 
-	background-color: pink; 
+	background-color: rgba(255, 105, 180, 0.5); 
 	color: white;
    }
 
